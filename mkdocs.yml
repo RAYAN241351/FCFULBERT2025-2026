@@ -1,6 +1,6 @@
 site_name: FCFULBERT
 theme:
-  name: mkdocs
+  name: mkdocs-material
   language: fr
   highlightjs: true
   hljs_languages:
